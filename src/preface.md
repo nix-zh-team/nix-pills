@@ -4,7 +4,7 @@
 
 由于散装 Nix 实在经典，Graham Christensen（也被称作 grahamc / gchristensen）领导其他贡献者在 2017 年将它移植到了当时的格式。
 
-倘若阅读时遇到问题，请向 [nixos/nix-pills](https://github.com/NixOS/nix-pills/issues) 项目的问题追踪器报告。
+倘若阅读时遇到问题，请向 [nixos/nix-pills](https://github.com/NixOS/nix-pills/issues) 项目的问题追踪器报告（英文版原版）。（译注：建议在[翻译项目](https://github.com/nix-zh-team/nix-pills/issues)报告）
 
 :::tip
 
