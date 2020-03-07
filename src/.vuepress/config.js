@@ -13,7 +13,6 @@ module.exports = {
     smoothScroll: true,
 
     sidebar: [
-      '/',
       ['/preface','前言'],
       ['why-you-should-give-it-a-try','第 1 章： 尝试 Nix 的理由'],
     ]
