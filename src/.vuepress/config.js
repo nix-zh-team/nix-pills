@@ -7,7 +7,7 @@ module.exports = {
   description: 'Unofficial ported of Nix Pills in Chinese.',
   themeConfig: {
     logo: '/nix.png',
-    displayAllHeaders: true,
+    displayAllHeaders: false,
     nextLinks: true,
     prevLinks: true,
     smoothScroll: true,
